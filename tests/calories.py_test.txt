@@ -1,0 +1,122 @@
+calories.py - test file
+
+Test. Male. 
+ Weight = 87, Height = 207, Age = 33.
+Calories: 2039
+
+Test. Male. 
+ Weight = 126, Height = 180, Age = 70.
+Calories: 2132
+
+Test. Male. 
+ Weight = 177, Height = 199, Age = 66.
+Calories: 2868
+
+Test. Male. 
+ Weight = 71, Height = 162, Age = 28.
+Calories: 1625
+
+Test. Male. 
+ Weight = 197, Height = 165, Age = 52.
+Calories: 2997
+
+Test. Male. 
+ Weight = 149, Height = 175, Age = 64.
+Calories: 2412
+
+Test. Male. 
+ Weight = 195, Height = 176, Age = 18.
+Calories: 3235
+
+Test. Male. 
+ Weight = 111, Height = 225, Age = 68.
+Calories: 2219
+
+Test. Male. 
+ Weight = 109, Height = 223, Age = 18.
+Calories: 2478
+
+Test. Male. 
+ Weight = 65, Height = 174, Age = 64.
+Calories: 1409
+
+Test. Male. 
+ Weight = 130, Height = 196, Age = 20.
+Calories: 2564
+
+Test. Male. 
+ Weight = 196, Height = 225, Age = 65.
+Calories: 3246
+
+Test. Male. 
+ Weight = 144, Height = 202, Age = 22.
+Calories: 2752
+
+Test. Male. 
+ Weight = 88, Height = 163, Age = 74.
+Calories: 1562
+
+Test. Male. 
+ Weight = 86, Height = 170, Age = 22.
+Calories: 1883
+
+Test. Female. 
+ Weight = 131, Height = 167, Age = 73.
+Calories: 1856
+
+Test. Female. 
+ Weight = 138, Height = 182, Age = 29.
+Calories: 2198
+
+Test. Female. 
+ Weight = 135, Height = 159, Age = 56.
+Calories: 1945
+
+Test. Female. 
+ Weight = 133, Height = 195, Age = 70.
+Calories: 2004
+
+Test. Female. 
+ Weight = 75, Height = 166, Age = 20.
+Calories: 1561
+
+Test. Female. 
+ Weight = 135, Height = 165, Age = 21.
+Calories: 2139
+
+Test. Female. 
+ Weight = 131, Height = 178, Age = 39.
+Calories: 2065
+
+Test. Female. 
+ Weight = 77, Height = 179, Age = 75.
+Calories: 1367
+
+Test. Female. 
+ Weight = 105, Height = 198, Age = 74.
+Calories: 1722
+
+Test. Female. 
+ Weight = 95, Height = 185, Age = 47.
+Calories: 1703
+
+Test. Female. 
+ Weight = 80, Height = 178, Age = 53.
+Calories: 1499
+
+Test. Female. 
+ Weight = 100, Height = 155, Age = 62.
+Calories: 1557
+
+Test. Female. 
+ Weight = 71, Height = 168, Age = 57.
+Calories: 1351
+
+Test. Female. 
+ Weight = 111, Height = 153, Age = 59.
+Calories: 1672
+
+Test. Female. 
+ Weight = 133, Height = 184, Age = 52.
+Calories: 2046
+
