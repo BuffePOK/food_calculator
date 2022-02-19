@@ -1,0 +1,92 @@
+PCF.py - test file
+
+Test: 
+Calories = 4000, koef_protein = 0.35, koef_fat = 0.35, koef_carbo = 0.30.
+Done!
+Protein: 350, Fat: 155, Carbohydrates: 300
+
+
+Test: 
+Calories = 4000, koef_protein = 0.35, koef_fat = 0.35, koef_carbo = 0.30.
+Done!
+Protein: 350, Fat: 155, Carbohydrates: 300
+
+
+Test: 
+Calories = 4000, koef_protein = 0.35, koef_fat = 0.35, koef_carbo = 0.30.
+Done!
+Protein: 350, Fat: 155, Carbohydrates: 300
+
+
+Test: 
+Calories = 2500, koef_protein = 0.45, koef_fat = 0.35, koef_carbo = 0.20.
+Done!
+Protein: 281, Fat: 97, Carbohydrates: 125
+
+
+Test: 
+Calories = 5500, koef_protein = 0.45, koef_fat = 0.35, koef_carbo = 0.20.
+Done!
+Protein: 618, Fat: 213, Carbohydrates: 275
+
+
+Test: 
+Calories = 1000, koef_protein = 0.45, koef_fat = 0.35, koef_carbo = 0.20.
+Done!
+Protein: 112, Fat: 38, Carbohydrates: 50
+
+
+Test: 
+Calories = 3250, koef_protein = 0.25, koef_fat = 0.25, koef_carbo = 0.50.
+Done!
+Protein: 203, Fat: 90, Carbohydrates: 406
+
+
+Test: 
+Calories = 4000, koef_protein = 0.25, koef_fat = 0.25, koef_carbo = 0.50.
+Done!
+Protein: 250, Fat: 111, Carbohydrates: 500
+
+
+Test: 
+Calories = 2500, koef_protein = 0.25, koef_fat = 0.25, koef_carbo = 0.50.
+Done!
+Protein: 156, Fat: 69, Carbohydrates: 312
+
+
+Test: 
+Calories = 5500, koef_protein = 0.45, koef_fat = 0.35, koef_carbo = 0.20.
+Done!
+Protein: 618, Fat: 213, Carbohydrates: 275
+
+
+Test: 
+Calories = 4750, koef_protein = 0.45, koef_fat = 0.35, koef_carbo = 0.20.
+Done!
+Protein: 534, Fat: 184, Carbohydrates: 237
+
+
+Test: 
+Calories = 1000, koef_protein = 0.45, koef_fat = 0.35, koef_carbo = 0.20.
+Done!
+Protein: 112, Fat: 38, Carbohydrates: 50
+
+
+Test: 
+Calories = 5500, koef_protein = 0.40, koef_fat = 0.25, koef_carbo = 0.35.
+Done!
+Protein: 550, Fat: 152, Carbohydrates: 481
+
+
+Test: 
+Calories = 3250, koef_protein = 0.40, koef_fat = 0.25, koef_carbo = 0.35.
+Done!
+Protein: 325, Fat: 90, Carbohydrates: 284
+
+
+Test: 
+Calories = 3250, koef_protein = 0.40, koef_fat = 0.25, koef_carbo = 0.35.
+Done!
+Protein: 325, Fat: 90, Carbohydrates: 284
+
+

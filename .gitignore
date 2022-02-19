@@ -6,6 +6,13 @@ __pycache__/
 # C extensions
 *.so
 
+# My options
+test.py
+PCF.txt
+Calories.txt
+vitam.py
+vitamine.txt
+
 # Distribution / packaging
 .Python
 build/
