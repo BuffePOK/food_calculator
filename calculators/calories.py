@@ -1,8 +1,5 @@
 # calorie calculator
 
-from random import randint
-
-
 def female_Mifflin(weight, height, age): # Mifflin – San Jeoru Formula for female
     return 10 * weight + 6.25 * height - 5 * age - 161
 
@@ -25,6 +22,7 @@ def male(weight, height, age):
 
 
 def main():  # to check
+    from random import randint
     file = open("./tests/calories.py_test.txt", "w")
     file.write("calories.py - test file\n\n")
     for never in range(15):
